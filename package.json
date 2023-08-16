@@ -1,0 +1,80 @@
+{
+  "name": "electricalcarblog-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@fortawesome/fontawesome-free": "^6.4.0",
+    "@googlemaps/google-maps-services-js": "^3.3.32",
+    "@googlemaps/js-api-loader": "^1.16.2",
+    "@headlessui/react": "^1.7.14",
+    "@heroicons/react": "^1.0.6",
+    "@material-tailwind/react": "^2.0.2",
+    "@mui/material": "^5.13.6",
+    "@react-buddy/ide-toolbox": "^2.3.1",
+    "@react-buddy/palette-mui": "^5.0.1",
+    "@react-google-maps/api": "^2.18.1",
+    "@reduxjs/toolkit": "^1.9.5",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@windmill/react-ui": "^0.6.0",
+    "axios": "^1.3.5",
+    "babel-preset-react-app": "^10.0.1",
+    "flowbite-react": "^0.4.9",
+    "formik": "^2.2.9",
+    "google-map-react": "^2.2.1",
+    "leaflet": "^1.9.4",
+    "lodash": "^4.17.21",
+    "mdb-react-ui-kit": "^6.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-dropzone": "^14.2.3",
+    "react-google-autocomplete": "^2.7.3",
+    "react-google-places-autocomplete": "^4.0.1",
+    "react-icons": "^4.10.1",
+    "react-leaflet": "^4.2.1",
+    "react-modal": "^3.16.1",
+    "react-moment": "^1.1.3",
+    "react-redux": "^8.0.5",
+    "react-router-dom": "^5.3.4",
+    "react-scripts": "^5.0.1",
+    "react-select": "^5.7.3",
+    "react-spinners": "^0.13.8",
+    "react-toggle": "^4.1.3",
+    "styled-components": "^5.3.11",
+    "twin.macro": "^3.3.1",
+    "web-vitals": "^2.1.4",
+    "yup": "^1.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "prettier": "2.8.7",
+    "tailwindcss": "^3.3.1"
+  }
+}
