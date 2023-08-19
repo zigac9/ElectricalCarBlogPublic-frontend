@@ -446,12 +446,12 @@ const Register = () => {
             </div>
             <div className="w-full lg:w-1/2 px-10 mb-16 lg:mb-0 mt-4 hidden lg:block">
               <div className="max-w-md">
-                <span className="text-xl text-gray-900 font-bold">
+                <span className="text-3xl text-gray-900 font-bold">
                   Join our community!
                 </span>
                 <h2 className="mt-8 mb-12 text-5xl font-bold font-heading text-white">
-                  Create an account and start sharing your experience with
-                  electrical vehicle road trips!
+                  Create an account and start sharing your experiences about
+                  your journeys with electric cars!
                 </h2>
               </div>
             </div>
