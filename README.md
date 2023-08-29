@@ -27,3 +27,11 @@ Ziga Crv is a 22-year-old computer science student from Tolmin, Slovenia, curren
 ## License
 
 This project is licensed under the [GNU General Public License, version 3 (or later)](http://www.gnu.org/licenses/). This means it can be freely distributed and/or modified under the conditions of this license. Detailed license information can be accessed on the following website: http://www.gnu.org/licenses/.
+
+## Application preview images
+
+![register](https://github.com/zigac9/ElectricalCarBlogPublic-frontend/assets/62549216/f9df9819-345f-4267-929a-910697c13977)
+
+![homePage](https://github.com/zigac9/ElectricalCarBlogPublic-frontend/assets/62549216/f817cba8-57cd-49f9-af3e-a37d589e8b4a)
+
+![path](https://github.com/zigac9/ElectricalCarBlogPublic-frontend/assets/62549216/a22ef2b1-76bc-4cc2-baef-f3c7c92ff183)
